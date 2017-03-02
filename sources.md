@@ -11,3 +11,14 @@ Audio-
 Images-
 
 "Paper", Russlan - https://www.turbosquid.com/FullPreview/Index.cfm/ID/745364
+
+
+PreFabs-
+
+"Campfire" David Stenfors - https://www.assetstore.unity3d.com/en/#!/content/45038
+
+"Moons and Night Skydome" Nova Shade - https://www.assetstore.unity3d.com/en/#!/content/48514
+
+"Nature Starter Kit 2" Shapes - https://www.assetstore.unity3d.com/en/#!/content/52977
+
+
